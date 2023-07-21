@@ -1,6 +1,7 @@
 # Simulating evolution
 
 Inspired by this video from [@davidrandallmiller](https://www.youtube.com/@davidrandallmiller):
+
 [![I programmed some creatures. They Evolved.](https://img.youtube.com/vi/N3tRFayqVtk/0.jpg)](https://youtu.be/N3tRFayqVtk)
 
 I've decided to write that program in Rust, and maybe use OpenCL at the end.
