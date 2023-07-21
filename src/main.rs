@@ -3,11 +3,11 @@ use rand::prelude::*;
 // Run parameters
 const X: usize = 256;
 const Y: usize = 256;
-const SPECIES: usize = 10000;
+const SPECIES: usize = 4000;
 
 // Imaging options
-const IMG_SCALE_X: usize = 5;
-const IMG_SCALE_Y: usize = 5;
+const IMG_SCALE_X: usize = 2;
+const IMG_SCALE_Y: usize = 2;
 
 // Implementation constants
 const FIELD_SIZE: usize = X * Y;
